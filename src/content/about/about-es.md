@@ -2,7 +2,10 @@
 lang: es
 ---
 
-年年岁岁花相似。
+Impreso, escribiendo código, tomando fotos...
 
-活得开心，我的朋友们。
+Tengo muchas identidades, todas soy yo.
 
+Año tras año, las flores se parecen.
+
+Vive felizmente, mis amigos.

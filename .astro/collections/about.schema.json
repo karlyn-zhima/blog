@@ -8,12 +8,12 @@
           "type": "string",
           "enum": [
             "",
-            "zh",
+            "zh-tw",
             "ja",
             "en",
             "es",
             "ru",
-            "zh-tw"
+            "zh"
           ],
           "default": ""
         },

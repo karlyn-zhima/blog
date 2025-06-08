@@ -2,7 +2,10 @@
 lang: en
 ---
 
-年年岁岁花相似。
+Printed, coding, taking photos...
 
-活得开心，我的朋友们。
+With many identities, all of them me.
 
+Year after year, the flowers look the same.
+
+Live happily, my friends.

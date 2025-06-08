@@ -90,7 +90,7 @@ export const ui = {
     toc: '目录',
   },
   'zh-tw': {
-    title: '芝麻的雑談',
+    title: '芝麻の雑談',
     subtitle: '畫舫聽雨眠',
     description: '只是寫寫程式碼，沒什麼值得關注的。',
     posts: '文章',
